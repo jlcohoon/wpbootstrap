@@ -1,0 +1,19 @@
+/*
+Theme Name: WPBootstrap
+Author: Johanna Cohoon
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This simple theme was built using the example Bootstrap theme "Basic marketing site" found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/hero.html
+*/
+
+@import url('bootstrap/css/bootstrap.css');
+@import url('bootstrap/css/bootstrap-theme.css');
+@import url('bootstrap/css/custom.css');
+@import url(http://fonts.googleapis.com/css?family=Seaweed+Script|Amatic+SC:400,700);
+body {
+     padding-top: 60px;
+     padding-bottom: 40px;
+}

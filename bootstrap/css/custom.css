@@ -1,0 +1,110 @@
+.home-center  {
+    margin-top: 35px;
+    margin-bottom: 75px;
+    text-align: center;
+    line-height: 35px;
+    font-family: Amatic SC;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+.post-center {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.fancy-font {
+    font-family: seaweed script;
+}
+
+.time {
+    font-family: Amatic SC;
+    font-size: 25px;
+    letter-spacing: 3px;
+    padding-bottom: 50px;
+}
+
+.medium-font {
+    font-family: Amatic SC;
+    font-size: 35px;
+    line-height: 45px;
+    letter-spacing: 0px;
+}
+
+.big-font {
+    font-size: 50px;
+    line-height: 60px;
+    letter-spacing: 0px;
+}
+
+#internet-famous {
+    font-size: 35px;
+}
+
+.strong-font {
+    font-weight: bold;
+}
+
+.coral {
+    color: #ff4e44;
+}
+
+.navbar {
+    background: none;
+    background-image: none;
+    border: none;
+    border-radius: 0;
+    background-repeat: no-repeat;
+    box-shadow: none;
+}
+
+.navbar-nav {
+    float: none;
+    text-align: center;
+}
+
+.navbar-nav  li {
+float: none;
+    display: inline-block;
+}
+
+.navbar-default .navbar-nav .active a,
+.navbar-default .navbar-nav li a{
+    background: none;
+    background-image: none;
+    background-repeat: no-repeat;
+    box-shadow: none;
+    font-weight: bold;
+    color: #000;
+}
+
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav .active a:hover{
+    color: #ff4e44; !important
+    background: none;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    box-shadow: none;
+}
+
+
+.footer-nav ul {
+    margin-top: 50px;
+    padding-left: 0px !important;
+    list-style: none;
+    text-align: center;
+}
+
+.footer-nav li {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.footer-nav img {
+    width: 25px;
+}
